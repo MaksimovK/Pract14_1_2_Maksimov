@@ -1,0 +1,7 @@
+C:\Users\kmaki\RiderProjects\Pract14\Pract14\bin\Debug\Pract14.exe
+C:\Users\kmaki\RiderProjects\Pract14\Pract14\bin\Debug\Pract14.pdb
+C:\Users\kmaki\RiderProjects\Pract14\Pract14\obj\Debug\Pract14.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\Pract14\Pract14\obj\Debug\Pract14.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmaki\RiderProjects\Pract14\Pract14\obj\Debug\Pract14.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\Pract14\Pract14\obj\Debug\Pract14.exe
+C:\Users\kmaki\RiderProjects\Pract14\Pract14\obj\Debug\Pract14.pdb
